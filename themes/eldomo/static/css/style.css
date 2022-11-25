@@ -3,6 +3,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     background-image: url("/images/tile.jpg");
     background-repeat: repeat;
+    font-size: 18px;
 }
 
 header {  
