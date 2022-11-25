@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://eldomo.dominicmaas.co.nz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'El Domo - Family Recipes'
+theme = 'eldomo'
+
+[menu]
+  [[menu.main]]
+    name = "Quality Recipes"
+    pre = "quality-recipes"
+    url = "/recipes/"
+    weight = 1
+  [[menu.main]]
+    name = "Family History"
+    pre = "family-history"
+    url = "/history/"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    pre = "contact"
+    url = "/contact/"
+    weight = 3
+ [[menu.main]]
+    name = "About"
+    pre = "about"
+    url = "/"
+    weight = 4

@@ -1,0 +1,17 @@
+<header>
+    <div class="header-gradient">
+        <img width="256px" src="images/title.png" />
+        <img class="header-image" width="256px" src="images/logo.jpg" />
+        <nav>
+            <ul>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">
+                {{ $text := print .Name | safeHTML }}
+                {{ $text }}
+                </a></li>
+                {{ end }}
+            </ul><a>
+        </nav>
+        <p>"keep it in the family"</p>
+    </div>
+</header>
