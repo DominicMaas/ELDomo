@@ -25,11 +25,14 @@ The resulting chicken is juicy and succulent, with a slight hint of chocolate fl
 
 ## Directions
 
-1. Preheat your oven to 350 degrees.
-2. Place a whole chicken onto a rotisserie spit, and secure it in place.
-3. Rub the chicken all over with a generous amount of chocolate hazelnut spread.
-4. Cook the chicken on the rotisserie for about 1 hour and 15 minutes, or until it is cooked medium-rare.
-5. Let the chicken rest for a few minutes before carving and serving. Enjoy!
+1. Preheat your oven to 220°C/200°C fan-forced.
+2. Place your chicken onto a rotisserie spit and season it generously with salt, pepper, cayenne pepper, smoked paprika, garlic herb & salt and Italian herbs.
+3. Cut one onion into quarters and place it inside the chicken cavity.
+4. Place the chicken onto the rotisserie and cook it for 1 hour and 15 minutes, or until cooked through.
+5. 10 minutes before the chicken is cooked, start making the chocolate sauce. Place the brown sugar, Nutella and the other onion (chopped) into a saucepan over low heat.
+6. Cook the sauce, stirring frequently, until the sugar has dissolved and the sauce is smooth.
+7. When the chicken is cooked, brush it generously with the chocolate sauce.
+8. Allow the chicken to rest for 5 minutes before carving and serving. Enjoy!
 
 If you found this recipe helpful, or you would like to leave a suggestion to the chef, email us at:
 
